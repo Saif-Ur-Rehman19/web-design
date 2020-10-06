@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event Handling with javascript</title>
-</head>
-<body >
+
    <script>
        var salary = parseInt(window.prompt("enter salary"));
        var deduce;
@@ -26,9 +19,3 @@
        else
        document.write("net_salary = salary " +net_salary+" = "+salary);
         
-          
-   </script>
-   <form action="">
-       <input type="submit" value="saif">
-
-</html>
